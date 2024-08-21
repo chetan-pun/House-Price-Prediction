@@ -31,9 +31,10 @@ The dataset used in this project consists of house sizes (in square feet) and th
    ```bash
    git clone https://github.com/your-username/house-price-prediction.git
    cd house-price-prediction
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
-
-pip install -r requirements.txt
 
 # Example usage
 size_of_house = 1500  # square feet
