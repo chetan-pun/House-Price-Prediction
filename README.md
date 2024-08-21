@@ -15,10 +15,10 @@ The goal of this project is to demonstrate how a basic linear regression model c
 The model is a simple linear regression model that fits a straight line to the data, representing the relationship between the size of the house and its price.
 
 The linear function used for prediction is:
-Price = m * Size + b
+Price = w * Size + b
 
 where:
-- `m` is the slope of the line (i.e., the coefficient)
+- `w` is the slope of the line (i.e., the coefficient)
 - `b` is the y-intercept
 
 ## Dataset
